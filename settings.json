@@ -1,0 +1,5 @@
+{
+  "livePreview.tasks.runTaskWithExternalPreview": false,
+  "livePreview.showServerStatusNotifications": false,
+  "liveServer.settings.CustomBrowser": "chrome"
+}
